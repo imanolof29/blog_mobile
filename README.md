@@ -1,6 +1,6 @@
 # blog
 
-A new Flutter project.
+Blog mobile app for Django blog api
 
 ## Getting Started
 
